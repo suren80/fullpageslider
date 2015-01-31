@@ -37,7 +37,7 @@ function invokeSlider(options){
 }
 /*Slider Code Ends*/
 var SliderObject={
-	imgArray: ["animal.jpg","elephant.jpg","lion.jpg"], // List Of Images
+	imgArray: ["animal.jpg","elephant.jpg","lion.jpg"], // List Of Images with full path
 	startDuration : 7000,
 	animationDuration: 3000
 };
